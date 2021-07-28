@@ -1,3 +1,3 @@
 A simple calulator built using java in android studio.
 
-![pic]()
+![pic](https://github.com/abhichamoli/SimpleCalculator/blob/master/calc.jpg)
